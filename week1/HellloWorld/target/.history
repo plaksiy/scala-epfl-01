@@ -1,0 +1,11 @@
+run
+sbt
+run
+clean
+compile
+console
+compile
+test
+run
+console
+exit

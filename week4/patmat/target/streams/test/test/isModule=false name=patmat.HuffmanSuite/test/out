@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0m[32mHuffmanSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- weight of a larger tree[0m[0m
+[0m[[0minfo[0m] [0m[32m- chars of a larger tree[0m[0m
+[0m[[0minfo[0m] [0m[32m- string2chars("hello, world")[0m[0m
+[0m[[0minfo[0m] [0m[32m- times(List('a', 'b', 'a', 'c', 'a'))[0m[0m
+[0m[[0minfo[0m] [0m[32m- makeOrderedLeafList for some frequency table[0m[0m
+[0m[[0minfo[0m] [0m[32m- combine of some leaf list[0m[0m
+[0m[[0minfo[0m] [0m[32m- until of some leaf list[0m[0m
+[0m[[0minfo[0m] [0m[32m- createCodeTree of some chars list[0m[0m
+[0m[[0minfo[0m] [0m[32m- decode short text[0m[0m
+[0m[[0minfo[0m] [0m[32m- decodedSecret for frenchCode tree and secret[0m[0m
+[0m[[0minfo[0m] [0m[32m- decode and encode a very short text should be identity[0m[0m
+[0m[[0minfo[0m] [0m[32m- quick encode gives the correct byte sequence[0m[0m
